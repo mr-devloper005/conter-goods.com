@@ -23,7 +23,7 @@ export const editableRootStyle = {
   '--slot4-body-gradient': 'none',
   '--editable-page-bg': '#ffffff',
   '--editable-page-text': '#1a1a1a',
-  '--editable-container': '1500px',
+  '--editable-container': '1240px',
   '--editable-border': '#e6e6e6',
   '--editable-nav-bg': '#ffffff',
   '--editable-nav-text': '#1a1a1a',
